@@ -1,0 +1,6 @@
+c:\users\денис\documents\visual studio 2017\Projects\WordReverse\WordReverse\bin\Debug\WordReverse.exe.config
+c:\users\денис\documents\visual studio 2017\Projects\WordReverse\WordReverse\bin\Debug\WordReverse.exe
+c:\users\денис\documents\visual studio 2017\Projects\WordReverse\WordReverse\bin\Debug\WordReverse.pdb
+c:\users\денис\documents\visual studio 2017\Projects\WordReverse\WordReverse\obj\Debug\WordReverse.csprojResolveAssemblyReference.cache
+c:\users\денис\documents\visual studio 2017\Projects\WordReverse\WordReverse\obj\Debug\WordReverse.exe
+c:\users\денис\documents\visual studio 2017\Projects\WordReverse\WordReverse\obj\Debug\WordReverse.pdb
